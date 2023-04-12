@@ -1,0 +1,148 @@
+Uri: https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\npm\fuse.js\dist\fuse.js
+Content Type: application/javascript
+
+Uri: https://coruscating-shortbread-45f18a.netlify.app/Images/random_game.png
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Images\random_game.png
+Content Type: image/png
+
+Uri: https://coruscating-shortbread-45f18a.netlify.app/Images/transparent_graphic.png
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Images\transparent_graphic.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Kanit&display=swap
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcoaS.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\s\kanit\v12\nKKZ-Go6G5tXcoaS.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://syce-game-shack.vercel.app/
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/blog.html
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\blog.html
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/games.html
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\games.html
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/index.html
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/nav1.css
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\nav1.css
+Content Type: text/css
+
+Uri: https://syce-game-shack.vercel.app/nav2.css
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\nav2.css
+Content Type: text/css
+
+Uri: https://syce-game-shack.vercel.app/profile.html
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\profile.html
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/script.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\script.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/blog_data.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\blog_data.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/connection.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\connection.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/game_data.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\game_data.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/hotkeys.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\hotkeys.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/profile.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\profile.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/settings.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\settings.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/Scripts/soundboard.js
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\Scripts\soundboard.js
+Content Type: application/javascript
+
+Uri: https://syce-game-shack.vercel.app/settings.html
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\settings.html
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/sgs-logo.png
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\sgs-logo.png
+Content Type: image/png
+
+Uri: https://syce-game-shack.vercel.app/soundboard.html
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\soundboard.html
+Content Type: text/html
+
+Uri: https://syce-game-shack.vercel.app/style.css
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\style.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\boxicons@2.1.1\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.eot
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\boxicons@2.1.1\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.svg?
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\boxicons@2.1.1\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.ttf
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\boxicons@2.1.1\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.woff
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\boxicons@2.1.1\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.woff2
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\boxicons@2.1.1\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-RZF5EEF09R
+File Name: C:\Users\Tom\Desktop\New folder\syce-game-shack.vercel.app\gtag\js
+Content Type: application/javascript
+
